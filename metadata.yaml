@@ -1,0 +1,34 @@
+_repo: The-Piskey-PurseLegends-and-Tales-of-North-Cornwall_37245
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Pethybridge, J. Ley
+    gutenberg_agent_id: '38724'
+    url: http://www.gutenberg.org/2009/agents/38724
+covers:
+- cover_type: archival
+  image_path: 37245-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: Tregarthen, Enys
+    birthdate: 1851
+    deathdate: 1923
+    gutenberg_agent_id: '38723'
+    url: http://www.gutenberg.org/2009/agents/38723
+description: ''
+gutenberg_issued: '2011-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37245'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Legends -- England -- Cornwall (County)'
+- !lcc 'GR'
+- !lcsh 'Folklore -- England -- Cornwall (County)'
+tableOfContents: The Piskey-purse -- The magic pail -- The witch in the well -- Borrowed
+  eyes and ears -- The little white hare.
+title: 'The Piskey-Purse: Legends and Tales of North Cornwall'
+url: http://www.gutenberg.org/ebooks/37245
